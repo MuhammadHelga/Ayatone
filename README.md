@@ -22,7 +22,7 @@
 *Demo* <br>
 | <img src="docs/demo/demo_video.gif" width="280" alt="Ayatone Demo"> <br> |
 
-
+*Aplikasi: [klik disini](https://drive.google.com/file/d/1bMd4koBf8ntFR5pcufR3BGMmStix7Ekh/view?usp=drive_link)*
 ---
 
 ## 🚀 Fitur Utama
