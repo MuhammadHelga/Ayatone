@@ -35,19 +35,3 @@ Aplikasi ini menggunakan beberapa teknologi utama berikut:
 * **Audio Engine:** [Audioplayers](https://pub.dev/packages/audioplayers) (v6.6.0+)
 
 ---
-
-## ⚙️ Langkah-Langkah Instalasi
-
-Ikuti panduan berikut untuk menjalankan proyek Ayatone di lingkungan lokal Anda.
-
-### Prasyarat (Prerequisites)
-Pastikan Anda sudah menginstal:
-* Flutter SDK (Versi `>= 3.35.0`)
-* Android Studio / VS Code
-* Git
-
-### 1. Clone Repositori
-Buka terminal/command prompt Anda dan jalankan perintah berikut:
-```bash
-git clone [https://github.com/MuhammadHelga/Ayatone.git](https://github.com/MuhammadHelga/Ayatone.git)
-cd Ayatone
