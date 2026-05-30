@@ -19,8 +19,8 @@
 <img src="docs/screenshots/Search.jpg" width="280" alt="Ayatone Screenshot"> <br> 
 *Bookmark* <br>
 <img src="docs/screenshots/Bookmark.jpg" width="280" alt="Ayatone Screenshot"> <br> 
-| :---: |
-| <img src="docs/screenshots/video_placeholder.gif" width="280" alt="Ayatone Demo"> <br> *[Klik di sini untuk melihat video](#)* |
+*Demo* <br>
+| <img src="docs/demo/demo_video.gif" width="280" alt="Ayatone Demo"> <br> |
 
 
 ---
