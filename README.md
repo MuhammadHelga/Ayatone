@@ -12,9 +12,8 @@
 
 | ✨ UI Screenshot | 🎥 Video Demo |
 | :---: | :---: |
-| *Tampilan Antarmuka Ayatone* <br> *Home* <br> <img src="docs/screenshots/Home.png" width="280" alt="Ayatone Screenshot"> <br> *Tampilan Antarmuka Ayatone* | <img src="docs/screenshots/video_placeholder.gif" width="280" alt="Ayatone Demo"> <br> *[Klik di sini untuk melihat video](#)* |
+| *Tampilan Antarmuka Ayatone* <br> *Home* <br> <img src="docs/screenshots/Home.jpg" width="280" alt="Ayatone Screenshot"> <br> *Tampilan Antarmuka Ayatone* | <img src="docs/screenshots/video_placeholder.gif" width="280" alt="Ayatone Demo"> <br> *[Klik di sini untuk melihat video](#)* |
 
-> 💡 **Catatan untuk Pengembang:** *Ganti gambar di atas dengan screenshot asli proyek Anda di folder `docs/screenshots/app_preview.png` dan video/GIF demo Anda.*
 
 ---
 
