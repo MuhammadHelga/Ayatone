@@ -10,9 +10,17 @@
 
 ## 📸 Media Preview
 
-| ✨ UI Screenshot | 🎥 Video Demo |
-| :---: | :---: |
-| *Tampilan Antarmuka Ayatone* <br> *Home* <br> <img src="docs/screenshots/Home.jpg" width="280" alt="Ayatone Screenshot"> <br> *Tampilan Antarmuka Ayatone* | <img src="docs/screenshots/video_placeholder.gif" width="280" alt="Ayatone Demo"> <br> *[Klik di sini untuk melihat video](#)* |
+| ✨ UI Screenshot |
+| :---: |
+| *Tampilan Antarmuka Ayatone* <br> 
+*Home* <br> 
+<img src="docs/screenshots/Home.jpg" width="280" alt="Ayatone Screenshot"> <br> 
+*Search* <br> 
+<img src="docs/screenshots/Search.jpg" width="280" alt="Ayatone Screenshot"> <br> 
+*Bookmark* <br>
+<img src="docs/screenshots/Bookmark.jpg" width="280" alt="Ayatone Screenshot"> <br> 
+| :---: |
+| <img src="docs/screenshots/video_placeholder.gif" width="280" alt="Ayatone Demo"> <br> *[Klik di sini untuk melihat video](#)* |
 
 
 ---
