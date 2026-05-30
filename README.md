@@ -20,7 +20,7 @@
 *Bookmark* <br>
 <img src="docs/screenshots/Bookmark.jpg" width="280" alt="Ayatone Screenshot"> <br> 
 *Demo* <br>
-| <img src="docs/demo/demo_video.gif" width="280" alt="Ayatone Demo"> <br> |
+| <img src="docs/demo/demo_video.gif" width="280" alt="Ayatone Demo"> <br> *[Klik di sini untuk melihat video](#)*|
 
 
 ---
